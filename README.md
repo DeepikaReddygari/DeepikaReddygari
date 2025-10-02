@@ -1,4 +1,4 @@
-# Hi — I’m Deepika Reddygari 👋
+# Hi - I’m Deepika Reddygari 👋
 **MS Data Science @ GWU (GPA 3.9) · B.Tech Mechanical Engineering**
 
 I build small-world prototypes and big-picture models for cleaner energy — from lab-scale phase-change modules to data-driven system analyses that help planners understand how thermal storage changes reliability, cost, and emissions.
