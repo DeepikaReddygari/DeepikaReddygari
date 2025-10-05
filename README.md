@@ -24,7 +24,6 @@ I began as a mechanical engineer fascinated by heat. While building a PCM module
 - **posters-and-talks** — Poster PDFs and PNG previews
 
 CV & 1-page summary → `https://github.com/DeepikaReddygari/deepika-cv-portfolio`  
-Code & notebooks → `https://github.com/DeepikaReddygari/tes-models`
 
 ---
 
