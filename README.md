@@ -23,7 +23,7 @@ I began as a mechanical engineer fascinated by heat. While building a PCM module
 - **tes-models** — Reproducible PCM discharge models & short notebooks (how experiments become dispatchable resources)  
 - **posters-and-talks** — Poster PDFs and PNG previews
 
-CV & 1-page summary → `https://github.com/DeepikaReddygari/deepika-cv-portfolio`  
+CV & 1-page summary → [`https://github.com/DeepikaReddygari/deepika-cv-portfolio`](https://github.com/DeepikaReddygari/deepika-cv-portfolio)  
 
 ---
 
