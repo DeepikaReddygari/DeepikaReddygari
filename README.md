@@ -18,23 +18,6 @@ I'm a data engineer passionate about building efficient, scalable data infrastru
 
 ---
 
-## Professional Experience
-
-### Graduate Data Engineer | GW Institute of Public Policy (LAISER)
-*Washington, DC · January 2025 – July 2025*
-- Engineered reproducible analytical pipelines to standardize data cleaning, ensuring consistency across studies
-- Partnered with external organizations to analyze large-scale datasets and translate findings into actionable policy insights
-
-### Data Engineer | Tata Consultancy Services (TCS)
-*Chennai, India · August 2021 – January 2024*
-- Developed complex SQL queries and ETL workflows to integrate data from disparate sources, creating a unified "Source of Truth"
-- Proactively monitored data health metrics, detecting statistical deviations in real-time to ensure 100% accuracy of BI reports
-- Analyzed manual data validation workflows and developed automated scripts, **reducing data preparation latency by 30%**
-- **Awarded "Star of The Month"** for exceptional performance and innovation
-- Partnered with business teams to translate functional requirements into technical specifications
-
----
-
 ## Featured Projects
 
 ### 🏆 Real-Time Danger Detection System
@@ -52,6 +35,43 @@ I'm a data engineer passionate about building efficient, scalable data infrastru
 - Analyzed 12+ million records using PySpark and Parquet to identify high-density traffic zones
 - Implemented complex spatial transformation logic within ETL workflows
 - Demonstrated capability with large-scale data processing and feature engineering
+
+### 🤖 Reinforcement Learning for Pseudo-Labeling
+*GWU Data Science Capstone · Aug 2025 – Present*
+- Designed a Reinforcement Learning (RL) pipeline to perform pseudo-labeling, improving downstream model accuracy compared to standard self-training baselines
+- Automated the generation of high-confidence labels for unlabeled data, reducing reliance on manual annotation
+- Benchmarked RL against non-RL approaches to quantify trade-offs in accuracy and efficiency, delivering a reproducible workflow
+
+### 📝 Classification of Mathematical Problems Using NLP
+*GWU, Washington, DC · Jan 2025 – May 2025*
+- Applied machine learning and transformer-based NLP models to classify math problems into eight categories
+- Developed data preprocessing and evaluation pipelines for model comparison and reproducibility
+- Documented methodologies and findings for academic dissemination
+
+### 🔥 Data-Driven Thermal Energy Storage Analysis
+*GWU*
+- Built Python-based thermal models to analyze sensible–latent heat storage systems and assess discharge efficiency
+- Applied machine learning optimization to predict system performance under varying conditions
+- **Achievement:** Paper accepted for poster presentation at the 7th Battery and Energy Storage Conference, 2025
+
+### 🎬 Smart Clip: AI-Powered Video Summarization & Content Generation
+*GenAI / LLMs*
+- Developed end-to-end Generative AI pipeline using OpenAI models and LangChain to automatically generate transcripts, summaries, and viral clips from long-form video content
+- Optimized system prompts to improve summarization accuracy and context retention by 20%
+
+---
+
+## Publications
+- **Fabrication and Study of PCM-based Waste Heat Recovery System** – POCER 2019, Nottingham University
+- **Thermal Energy Storage System Performance Using PCM-Variable Heat** – POCER 2019, Nottingham University
+- **Paper accepted for poster presentation** at the 7th Battery and Energy Storage Conference, 2025
+
+---
+
+## Achievements & Awards
+- 🏆 **OSPO Award** – Real-Time Danger Detection System with cash prize
+- ⭐ **Star of The Month** – Tata Consultancy Services (TCS)
+- 🎓 **Global Leaders Award** – George Washington University (Scholarship)
 
 ---
 
